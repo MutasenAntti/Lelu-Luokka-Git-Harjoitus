@@ -1,8 +1,8 @@
 package leluluokkaharjoitus;
 
 public class Lelu {
-	private String nimi;
-	private int paino;
+	protected String nimi;
+	protected int paino;
 	
 	public Lelu() {
 		this.nimi = "";
