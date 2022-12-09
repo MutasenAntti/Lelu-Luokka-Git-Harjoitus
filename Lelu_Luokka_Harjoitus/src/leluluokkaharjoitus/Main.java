@@ -3,7 +3,9 @@ package leluluokkaharjoitus;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Lelu nukke = new Lelu("Mollamaija", 350);
+		
+		nukke.tulostaTiedot();
 
 	}
 
